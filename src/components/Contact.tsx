@@ -3,7 +3,7 @@
 import { motion } from "framer-motion";
 import { useLanguage } from "@/lib/i18n/LanguageContext";
 
-const EMAIL = "tu-email@ejemplo.com";
+const EMAIL = "yamilfernandotorrezgarciacc@gmail.com";
 const GITHUB_USERNAME = "yamilfernandotorrezgarciacc-bit";
 
 export default function Contact() {
