@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "about": "About",
+    "skills": "Skills",
+    "projects": "Projects",
+    "contact": "Contact"
+  },
+  "hero": {
+    "greeting": "Hi, I'm",
+    "name": "Yamil Fernando Torrez García",
+    "tagline": "Full-Stack Developer exploring Artificial Intelligence and Computer Vision",
+    "ctaPrimary": "View projects",
+    "ctaSecondary": "Get in touch"
+  },
+  "about": {
+    "title": "About me",
+    "body": "I'm a full-stack developer passionate about learning and solving problems, with one foot in software development and the other in hardware technical support. I'm actively working my way into Machine Learning, Deep Learning and Computer Vision, and I enjoy both leading teams and learning from them. I run Linux with Hyprland as my main setup, plus Ubuntu and Fedora on other machines, without leaving Windows behind when the job calls for it."
+  },
+  "skills": {
+    "title": "Skills",
+    "categories": [
+      {
+        "name": "Development",
+        "items": ["HTML", "CSS", "JavaScript", "Python", "Full-Stack"]
+      },
+      {
+        "name": "Artificial Intelligence",
+        "items": ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"]
+      },
+      {
+        "name": "Systems",
+        "items": [
+          "Linux (Hyprland, Ubuntu, Fedora)",
+          "Windows 10 / 11",
+          "Operating system installation and configuration",
+          "Office software activation and support"
+        ]
+      },
+      {
+        "name": "Hardware",
+        "items": [
+          "Preventive laptop maintenance",
+          "Desktop aquarium maintenance"
+        ]
+      },
+      {
+        "name": "Languages",
+        "items": [
+          "Advanced English (reading, listening and comprehension)",
+          "Speaking skills actively improving"
+        ]
+      },
+      {
+        "name": "Soft skills",
+        "items": ["Teamwork", "Leadership", "Continuous learning"]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Projects",
+    "placeholder": {
+      "title": "Coming soon",
+      "body": "I'm getting this space ready to showcase my upcoming real projects."
+    }
+  },
+  "contact": {
+    "title": "Let's talk",
+    "body": "Got a project, an idea, or just want to talk tech? Reach out.",
+    "emailLabel": "Send me an email",
+    "githubLabel": "GitHub"
+  },
+  "footer": {
+    "rights": "All rights reserved."
+  },
+  "languageToggle": {
+    "label": "ES"
+  }
+}

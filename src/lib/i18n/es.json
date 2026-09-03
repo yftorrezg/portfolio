@@ -1,0 +1,78 @@
+{
+  "nav": {
+    "about": "Sobre mí",
+    "skills": "Habilidades",
+    "projects": "Proyectos",
+    "contact": "Contacto"
+  },
+  "hero": {
+    "greeting": "Hola, soy",
+    "name": "Yamil Fernando Torrez García",
+    "tagline": "Desarrollador Full-Stack explorando Inteligencia Artificial y Visión por Computadora",
+    "ctaPrimary": "Ver proyectos",
+    "ctaSecondary": "Contactarme"
+  },
+  "about": {
+    "title": "Sobre mí",
+    "body": "Soy un desarrollador full-stack apasionado por aprender y resolver problemas, con un pie en la programación y otro en el soporte técnico de hardware. Estoy en camino activo hacia el Machine Learning, el Deep Learning y la Visión por Computadora, y disfruto tanto liderar equipos como seguir aprendiendo de ellos. Uso Linux con Hyprland como entorno principal, además de Ubuntu y Fedora en otros equipos, sin dejar de lado Windows cuando el trabajo lo requiere."
+  },
+  "skills": {
+    "title": "Habilidades",
+    "categories": [
+      {
+        "name": "Desarrollo",
+        "items": ["HTML", "CSS", "JavaScript", "Python", "Full-Stack"]
+      },
+      {
+        "name": "Inteligencia Artificial",
+        "items": ["Machine Learning", "Deep Learning", "Computer Vision", "NLP"]
+      },
+      {
+        "name": "Sistemas",
+        "items": [
+          "Linux (Hyprland, Ubuntu, Fedora)",
+          "Windows 10 / 11",
+          "Instalación y configuración de sistemas operativos",
+          "Activación y soporte de software de oficina"
+        ]
+      },
+      {
+        "name": "Hardware",
+        "items": [
+          "Mantenimiento preventivo de laptops",
+          "Mantenimiento de acuarios de escritorio"
+        ]
+      },
+      {
+        "name": "Idiomas",
+        "items": [
+          "Inglés avanzado (lectura, escucha y comprensión)",
+          "Conversación en inglés en mejora activa"
+        ]
+      },
+      {
+        "name": "Soft skills",
+        "items": ["Trabajo en equipo", "Liderazgo", "Aprendizaje continuo"]
+      }
+    ]
+  },
+  "projects": {
+    "title": "Proyectos",
+    "placeholder": {
+      "title": "Próximamente",
+      "body": "Estoy preparando este espacio para mostrar mis próximos proyectos reales."
+    }
+  },
+  "contact": {
+    "title": "Hablemos",
+    "body": "¿Tenés un proyecto, una idea o simplemente querés charlar de tecnología? Escribime.",
+    "emailLabel": "Escribime un email",
+    "githubLabel": "GitHub"
+  },
+  "footer": {
+    "rights": "Todos los derechos reservados."
+  },
+  "languageToggle": {
+    "label": "EN"
+  }
+}
