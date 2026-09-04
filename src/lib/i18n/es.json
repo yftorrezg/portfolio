@@ -39,8 +39,16 @@
       {
         "name": "Hardware",
         "items": [
-          "Mantenimiento preventivo de laptops",
+          "Mantenimiento y reparación de laptops y PCs de escritorio",
+          "Reparación de celulares y tablets",
           "Mantenimiento de acuarios de escritorio"
+        ]
+      },
+      {
+        "name": "Docencia / Tutoría",
+        "items": [
+          "Tutoría de Matemática (primaria y secundaria)",
+          "Tutoría de Inglés (primaria y secundaria)"
         ]
       },
       {

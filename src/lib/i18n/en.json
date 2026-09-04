@@ -39,8 +39,16 @@
       {
         "name": "Hardware",
         "items": [
-          "Preventive laptop maintenance",
+          "Laptop and desktop PC maintenance and repair",
+          "Phone and tablet repair",
           "Desktop aquarium maintenance"
+        ]
+      },
+      {
+        "name": "Tutoring",
+        "items": [
+          "Math tutoring (elementary and middle school)",
+          "English tutoring (elementary and middle school)"
         ]
       },
       {
